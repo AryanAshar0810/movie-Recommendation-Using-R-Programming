@@ -7,4 +7,4 @@ Content-Based Recommendation System and Collaborative Filtering Recommendation. 
 recommendation system in R, we will work on a collaborative filtering recommendation system and more 
 specifically, ITEM based collaborative recommendation system.
 
-The PDF file contains the step-wise implementation of the code with the exaplaination.
+The PDF file is the guide which contains the step-wise implementation of the code with the exaplaination.
